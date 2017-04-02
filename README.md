@@ -3,7 +3,10 @@
 Dies ist mein erstes Repository. 
 
 ## Einführung
-TODO: Stefan A
+- `git init` erstellt leeres Repository
+- `git add datei` fügt Datei hinzu
+- `git commit -m "meine message" ` erstellt commit message
+
 
 ## Hello World
 TODO: Stefan R: hello world Beispiel in C#
