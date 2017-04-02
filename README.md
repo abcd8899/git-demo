@@ -6,7 +6,7 @@ Dies ist mein erstes Repository.
 TODO: Stefan A
 
 ## Hello World
-TODO: Stefan R: hello world Beispiel in C#
+TODO: Stefan R: hello world Beispiel in C# und java.
 
 ## Schlusswort
 TODO: 
