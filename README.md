@@ -2,7 +2,11 @@
 
 Dies ist mein erstes Repository. 
 
-## Stefan A: Schreibt Einführung
+## Einführung
+TODO: Stefan A
 
-## Stefan R: Schreibt hello world Beispiel in C#
+## Hello World
+TODO: Stefan R: hello world Beispiel in C#
 
+## Schlusswort
+TODO: 
